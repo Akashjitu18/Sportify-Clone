@@ -67,14 +67,9 @@ To run this project, you need:
 
 
 
-License :
+### License :
 This code is free to use, modify, and distribute for personal and commercial purposes
 
-Contact :
+### Contact :
 If you have any questions or feedback, feel free to contact me at akashjitu18@gmail.com.
 
-Acknowledgments :
-
-Inspiration from Sportify.
-
-Helpful resources and tutorials from [source](https://www.youtube.com/watch?v=CYwEq1GdU4E&t=18537s).
